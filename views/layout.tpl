@@ -44,7 +44,7 @@
   </style>
 </head>
 
-<body>  
+<body>
   %include
 
   <div class="footer">

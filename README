@@ -28,7 +28,7 @@ options:
 	-p = do not push to origin (store bookmark locally only)
 	-m = description of the bookmark
 	-t = a comma-delimited list of tags
-	
+
 Example:
 
 python gitmark.py -m 'my site' -t me,hilary_mason,code,bookmarks http://www.hilarymason.com
